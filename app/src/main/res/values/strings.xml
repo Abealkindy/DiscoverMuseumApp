@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discover Museum App</string>
+    <string name="titleSplash">Discover Museum</string>
+    <string name="titleMainActivty">Pilih kota berdasarkan provinsi</string>
+    <string name="titleListKota">Pilih museum berdasarkan kota</string>
+    <string name="titleListMuseum">Pilih museum</string>
+</resources>

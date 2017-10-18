@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.rosinante24.discovermuseumapp.Activity.SplashActivity">
+
+    <TextView
+        android:id="@+id/textSplashScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/jark189dp"
+        android:text="@string/app_name"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/textTitlesplashSize"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/image_splash"
+        android:layout_width="@dimen/widthandheightimageviewspalsh"
+        android:layout_height="@dimen/widthandheightimageviewspalsh"
+        android:layout_above="@+id/textSplashScreen"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/jarak30dp"
+        android:src="@drawable/museum" />
+
+</RelativeLayout>

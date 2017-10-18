@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textTitlesplashSize">30sp</dimen>
+    <dimen name="widthandheightimageviewspalsh">120dp</dimen>
+    <dimen name="marginbetweentextandimagespalsh">20dp</dimen>
+    <dimen name="jark189dp">189dp</dimen>
+    <dimen name="jarak30dp">30dp</dimen>
+    <dimen name="textTitleMainActivity">20sp</dimen>
+    <dimen name="jarak10dp">10dp</dimen>
+    <dimen name="jarak5dp">5dp</dimen>
+    <dimen name="jarak45dp">45dp</dimen>
+    <dimen name="jarak50dp">50dp</dimen>
+</resources>
