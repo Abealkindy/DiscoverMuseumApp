@@ -7,7 +7,7 @@
     <android.support.v7.widget.CardView
         android:id="@+id/carditemmuseum"
         android:layout_width="match_parent"
-        android:layout_height="@dimen/jarak45dp"
+        android:layout_height="@dimen/jarak50dp"
         android:layout_marginTop="@dimen/jarak10dp"
         app:cardCornerRadius="@dimen/jarak5dp">
 
@@ -21,7 +21,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
-                android:layout_margin="@dimen/marginbetweentextandimagespalsh"
+                android:layout_margin="@dimen/jarak10dp"
                 />
 
         </LinearLayout>

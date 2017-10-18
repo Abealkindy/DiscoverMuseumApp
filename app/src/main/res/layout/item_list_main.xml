@@ -21,7 +21,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
-                android:layout_margin="@dimen/marginbetweentextandimagespalsh"
+                android:layout_marginLeft="@dimen/marginbetweentextandimagespalsh"
+                android:layout_marginTop="@dimen/jarak10dp"
                 android:textSize="@dimen/textTitleMainActivity" />
 
         </LinearLayout>

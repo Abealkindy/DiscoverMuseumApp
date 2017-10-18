@@ -9,5 +9,5 @@
     <dimen name="jarak10dp">10dp</dimen>
     <dimen name="jarak5dp">5dp</dimen>
     <dimen name="jarak45dp">45dp</dimen>
-    <dimen name="jarak50dp">50dp</dimen>
+    <dimen name="jarak50dp">60dp</dimen>
 </resources>
